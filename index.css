@@ -1,0 +1,117 @@
+.marked[data-v-e5ad98f0] h1 {
+    font-size: 2em
+}
+
+.marked[data-v-e5ad98f0] h2 {
+    font-size: 1.5em
+}
+
+.marked[data-v-e5ad98f0] h3 {
+    font-size: 1.17em
+}
+
+.marked[data-v-e5ad98f0] h5 {
+    font-size: .83em
+}
+
+.marked[data-v-e5ad98f0] h6 {
+    font-size: .67em
+}
+
+.marked[data-v-e5ad98f0] img {
+    max-width: 100%
+}
+
+.marked[data-v-e5ad98f0] p {
+    margin: 1rem 0
+}
+
+.marked[data-v-e5ad98f0] h1,
+.marked[data-v-e5ad98f0] h2,
+.marked[data-v-e5ad98f0] h3,
+.marked[data-v-e5ad98f0] h4,
+.marked[data-v-e5ad98f0] h5,
+.marked[data-v-e5ad98f0] h6 {
+    margin: .5rem 0
+}
+
+.marked[data-v-e5ad98f0] h1,
+.marked[data-v-e5ad98f0] h2 {
+    padding-bottom: .2em;
+    border-bottom: solid 1px #eee
+}
+
+.marked[data-v-e5ad98f0] ol,
+.marked[data-v-e5ad98f0] ul {
+    padding-left: 1.5em
+}
+
+.marked[data-v-e5ad98f0] ul {
+    list-style: outside disc
+}
+
+.marked[data-v-e5ad98f0] ol {
+    list-style: outside decimal
+}
+
+.marked[data-v-e5ad98f0] hr {
+    margin: 1em 0;
+    height: 0;
+    border: none;
+    border-bottom: solid 1px #eee
+}
+
+.marked[data-v-e5ad98f0] code,
+.marked[data-v-e5ad98f0] pre {
+    font-family: monospace;
+    font-size: .875em;
+    background-color: #fafafa;
+    border: 1px solid #e8e8e8;
+    border-radius: 2px
+}
+
+.marked[data-v-e5ad98f0] code {
+    margin: 0 .2em;
+    padding: .1em .2em;
+    white-space: nowrap;
+    tab-size: 4;
+    -moz-tab-size: 4
+}
+
+.marked[data-v-e5ad98f0] pre {
+    margin: 0;
+    padding: 1em;
+    overflow-y: auto
+}
+
+.marked[data-v-e5ad98f0] pre>code {
+    font-size: unset;
+    margin: 0;
+    padding: 0;
+    white-space: pre;
+    border: none
+}
+
+.marked[data-v-e5ad98f0] li code.hljs,
+.marked[data-v-e5ad98f0] p code.hljs {
+    display: inline
+}
+
+.marked[data-v-e5ad98f0] blockquote {
+    background: #f9f9f9; /* 背景色 */
+    border-left: 10px solid #ccc; /* 左边框 */
+    padding: 10px; /* 内边距 */
+    margin: 10px 0; /* 上下外边距 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+}
+   
+.marked[data-v-e5ad98f0] blockquote p {
+    margin: 0; /* 移除段落的默认外边距 */
+    font-size: 1rem; /* 字体大小 */
+    line-height: 1.2; /* 行高 */
+    color: #333; /* 字体颜色 */
+}
+.marked[data-v-e5ad98f0] a {
+    color: #3498db;
+    text-decoration: none;
+}
